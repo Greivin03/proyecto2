@@ -1,0 +1,14 @@
+
+*.vsidx
+
+*.db-wal
+
+proyecto2/x64/Debug/
+
+proyecto2/.vs/proyecto2/v17/ipch/AutoPCH/d68ee77c8644d32b/
+
+proyecto2/proyecto2/x64/Debug/
+
+proyecto2/.vs/proyecto2/v17/
+
+proyecto2/.vs/proyecto2/FileContentIndex/
